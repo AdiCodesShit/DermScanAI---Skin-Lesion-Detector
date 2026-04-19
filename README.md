@@ -1,7 +1,8 @@
 # DermScan AI 🩺🤖
 
-DermScan AI is an AI-powered mobile application for early skin lesion analysis.  
-It allows users to upload or capture an image of a skin lesion and receive an instant prediction, confidence score, risk level, and guidance.
+DermScan AI is an AI-powered mobile healthcare application for early skin lesion analysis. Built using Flutter, Flask, and PyTorch, the app uses an EfficientNetB0 deep learning model achieving 98% accuracy to classify skin lesions and provide risk assessment.
+
+The app also includes Explainable AI heatmaps to visually highlight the image regions influencing predictions, improving trust and transparency.
 
 ## 🚀 Features
 
